@@ -17,12 +17,15 @@ Launch the notebook!
 jupyter-notebook
 ```
 ## Using PWFSLSmoke
-Once the notebook is launched various parameters can be input such as criteria for what AQI monitors to include in a query. The California Aire Resource Board(CARB) has a [website](https://ww2.arb.ca.gov/applications/quality-assurance-air-monitoring-site-search-1) where users can enter either a CARB site number or a AQS number to record PM2.5 emission in a given area or areas.
+Once the notebook is launched various parameters can be input such as criteria for what AQI monitors to include in a query. The California Air Resource Board(CARB) has a [website](https://ww2.arb.ca.gov/applications/quality-assurance-air-monitoring-site-search-1) where users can enter either a CARB site number or a AQS number to record PM2.5 emission in a given area or areas.
+
+<img src="https://i.imgur.com/LYLXzS2.png" alt="drawing" width="400"/>
+
 
 ## Troubleshooting:
 
 * Issue installing terra
-  * Try installing the follow linux dependencies 
+  * Try installing the follow Linux dependencies 
 ```
 sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
 sudo apt-get update
