@@ -16,7 +16,8 @@ Launch the notebook!
 ```
 jupyter-notebook
 ```
-
+## Using PWFSLSmoke
+Once the notebook is launched various parameters can be input such as criteria for what AQI monitors to include in a query. The California Aire Resource Board(CARB) has a [website](https://ww2.arb.ca.gov/applications/quality-assurance-air-monitoring-site-search-1) where users can enter either a CARB site number or a AQS number to record PM2.5 emission in a given area or areas.
 
 ## Troubleshooting:
 
