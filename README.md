@@ -1,5 +1,5 @@
 # California Wildfire Air quality
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasiegel88/airquality/HEAD)
 In order to recreate this notebook book install clone this repo.
 ```
 git clone git@github.com:nasiegel88/airquality.git
