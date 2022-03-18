@@ -3,7 +3,7 @@ channels:
   - bioconda
   - conda-forge
 dependencies:
- - Jupyter=1.0.0=py310hff52083_7
+ - Jupyter
  - r-base=4.1.2=h2553ce4_1
  - r-bitops=1.0_7=r41hcfec24a_0
  - r-desc=1.4.0=r41hc72bb7e_0
