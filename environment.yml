@@ -13,6 +13,7 @@ dependencies:
   - r-geojsonio=0.9.4
   - r-rmapshaper=0.4.5
   - r-rgdal=1.5_28
+  - r-rlang=0.4.12
   - r-slippymath=0.3.1
   - r-tidyselect=1.1.1  
   - r-maps=3.4.0  
