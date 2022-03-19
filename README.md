@@ -3,7 +3,7 @@
 
 [Air Quality Jupyter Notebook](https://github.com/nasiegel88/airquality/blob/main/airquality.ipynb)
 
-#### The purpose of this repo is to make working with the PWFSLSmoke R package more easily to interact with for people without extensive background in R.
+#### The purpose of this repo is to make working with the PWFSLSmoke R package more easy to interact with for people without extensive background in R.
 
 ##### I. Run locally
 In order to recreate this notebook book install clone this repo.
@@ -13,7 +13,7 @@ git clone git@github.com:nasiegel88/airquality.git
 
 Next, create the R environment for the interactive python notebook. Mamba is the fastest way to set up this environment and information on how to get mamba installed can be found [here](https://github.com/mamba-org/mamba). Note the installation assumes conda was previously installed. If conda has not been installed, the installation process is listed [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html).
 ```
-mamba env create -n airquality -f env.yml
+mamba env create -n airquality -f environment.yml
 conda activate airquality
 R -e 'IRkernel::installspec()'
 ```
