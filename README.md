@@ -24,7 +24,7 @@ jupyter-notebook
 ```
 
 ##### II. Using Binder
-[Binder](https://mybinder.readthedocs.io/en/latest/introduction.html) is a service that allows users to turn GitHub repos into interactive notebooks. This workflow can be used in binder by clicking on the binder link on the top of the page. Once there, all of the software needed will be install. Note, PWFSLSmoke has a lot of dependencies so it will take a few minutes to install everything. Also, since not all packages are available in conda, additional packages will also have to be installed after launching the python notebook.
+[Binder](https://mybinder.readthedocs.io/en/latest/introduction.html) is a service that allows users to turn GitHub repos into interactive notebooks. This workflow can be used in binder by clicking on the binder link on the top of the page. Once there, all of the software needed will be installed. Note, PWFSLSmoke has a lot of dependencies so it will take a few minutes to install everything. Also, since not all packages are available in conda, additional packages will also have to be installed after launching the python notebook.
 
 Load additional packages.
 ```
