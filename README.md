@@ -47,3 +47,7 @@ sudo add-apt-repository ppa:ubuntugis/ubuntugis-unstable
 sudo apt-get update
 sudo apt-get install libgdal-dev libgeos-dev libproj-dev 
 ```
+
+## To-do
+- [ ] Calculate PM 2.5 concentration from air quality index
+- [ ] Concentration of PM 2.5 exposure during wildfire
