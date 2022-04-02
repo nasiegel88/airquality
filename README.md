@@ -9,6 +9,7 @@
 In order to recreate this notebook book install clone this repo.
 ```
 git clone git@github.com:nasiegel88/airquality.git
+cd airquality
 ```
 
 Next, create the R environment for the interactive python notebook. Mamba is the fastest way to set up this environment and information on how to get mamba installed can be found [here](https://github.com/mamba-org/mamba). Note the installation assumes conda was previously installed. If conda has not been installed, the installation process is listed [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html).
