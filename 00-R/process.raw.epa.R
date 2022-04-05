@@ -47,19 +47,6 @@ if (param == '44201') {
                                 names(tbl)[14] <- 'VOCs'
                               } else
                                 stop('Please enter a valid parameter code.')
-
-    data <- tbl %>%
-      dplyr::filter(`State Name` == state | `Site Num` == monitor) %>%
-      dplyr::select(`Date Local`,
-                    `Time Local` ,
-                    names(tbl)[14],
-                    `Units of Measure`) %>%
-      tidyr::unite('Date.time',
-                   `Date Local`,
-                   `Time Local`,
-                   sep = ' ',
-                   remove = TRUE) %>%
-     mutate(., Date.time = as.POSIXct(Date.time, format = "%Y-%m-%d %H:%M:%S"))
                       
   data <- tbl %>%
       dplyr::filter(`State Name` == state | `Site Num` == monitor) %>%
