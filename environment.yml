@@ -40,3 +40,4 @@ dependencies:
  - r-waldo=0.3.1=r41hc72bb7e_0
  - r-xts=0.12.1=r41h06615bd_0
  - r-zoo=1.8_9=r41h06615bd_1
+ - r-openxlsx=4.2.5=r41h03ef668_0
