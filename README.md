@@ -1,4 +1,4 @@
-# California Wildfire Air quality
+# California Wildfire Air Quality
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasiegel88/airquality/HEAD)
 
 [Air Quality Jupyter Notebook](https://github.com/nasiegel88/airquality/blob/main/airquality.ipynb)
