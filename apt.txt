@@ -1,1 +1,10 @@
 libgeos-dev
+libprotobuf-dev
+protobuf-compiler
+libudunits2-dev
+libjq-dev
+libudunits2-dev
+libgdal-dev
+libproj-dev
+gdal-bin
+proj-bin
