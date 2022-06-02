@@ -2,7 +2,6 @@ name: airquality
 channels:
   - bioconda
   - conda-forge
-  - conda-forge/label/broken
 dependencies:
  - Jupyter
  - r-base=4.1.2=h2553ce4_1
