@@ -8,7 +8,6 @@ dependencies:
  - r-bitops=1.0_7=r41hcfec24a_0
  - r-desc=1.4.0=r41hc72bb7e_0
  - r-devtools=2.4.3=r41hc72bb7e_0
- - r-dplyr=1.0.9
  - r-dygraphs=1.1.1.6=r41hc72bb7e_1003
  - r-geojsonio=0.9.4=r41hc72bb7e_0
  - r-geosphere=1.5_14=r41hcfec24a_0
