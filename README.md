@@ -1,5 +1,5 @@
 # California Wildfire Air Quality
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasiegel88/airquality/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nasiegel88/airquality/HEAD?labpath=airquality.ipynb)
 
 [Air Quality Jupyter Notebook](https://github.com/nasiegel88/airquality/blob/main/airquality.ipynb)
 
