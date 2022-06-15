@@ -40,3 +40,4 @@ dependencies:
  - r-zoo=1.8_9=r41h06615bd_1
  - r-openxlsx=4.2.5=r41h03ef668_0
  - r-withr
+ - r-usethis
